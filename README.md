@@ -8,7 +8,7 @@ Software Engineering Project (Semester-6)
 
 ```
 Clone this repository
-run preprocessing.py [dataset path]
+run DataPreprocessing.py [dataset path]
 run stacked_deep_learning.py [data processed file path]
 
 - The output of preprocessing will be saved in the cloned directory as 'dataset_processed.csv'
