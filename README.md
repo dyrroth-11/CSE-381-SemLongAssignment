@@ -16,6 +16,5 @@ run stacked_deep_learning.py [data processed file path]
 ```
 ## About our Project:
 
-Project PPT: [Link]()
 
 Feel free to fork the repository. Brofist :punch:!!!
